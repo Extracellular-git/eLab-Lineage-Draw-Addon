@@ -1,9 +1,5 @@
-# eLab-Clone-Addon
-This is the git repo for Extracellular's bulk clone button addon, it's designed to allow users to clone individual samples once in bulk. It goes through the following name transformation through its lineage:
-
-cell sample -> cell sample (cloned) -> cell sample (cloned) 1 ... N
-
-The button can be found in the inventory / sample browser once at least one sample has been selected
+# eLab-Lineage-Draw-Addon
+This is the git repo for Extracellular's lineage draw addon, it's designed to allow users to simply draw a sample's lineage based on user requirements:
 
 ---
 
